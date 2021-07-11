@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: sans-serif;
+}
+
+body {
+	margin: 0;
+	background: rgb(0,0,0);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
